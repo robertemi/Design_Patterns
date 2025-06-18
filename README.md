@@ -1,1 +1,1 @@
-# Design_Patterns
+Different design patterns implemented for personal knowledge
